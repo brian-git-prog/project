@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+.head2{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    font-size: 50px;
+}
+body p{
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+.head1{
+    text-align: center;
+    color: lightblue;
+    text-decoration: underline;
+    font-size: 20px; 
+}
+header nav a:hover{
+    color: green;
+}
